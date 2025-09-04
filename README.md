@@ -8,7 +8,8 @@ The dataset is sourced from the **National Property Information Centre (NAPIC)**
 ## 📊 Dataset Information
 
 - **Source:** [NAPIC Property Transaction Data](https://napic2.jpph.gov.my/ms/data-transaksi?category=36&id=241)  
-- **Date Extracted:** 1st September 2025  
+- **Date Extracted:** 1st September 2025 
+- **Preprocessing:** After downloading the csv file it normally fails `pandas.read_csv`, open it and resave it as csv utf-8 format.
 - **Coverage:** Property transactions across Malaysia  
 
 ### Columns
