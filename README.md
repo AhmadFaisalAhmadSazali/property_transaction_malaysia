@@ -20,9 +20,9 @@ The dataset is sourced from the **National Property Information Centre (NAPIC)**
 - `Road Name` – Street name or road location of the property  
 - `Transaction Date` – Full date of the transaction in `DD/MM/YYYY` format  
 - `Tenure` – Tenure of the property (e.g., Freehold, Leasehold)  
-- `Land/Parcel Area` – Size of land parcel, typically in square meters (`sq.m`)  
+- `Land/Parcel Area` – Size of land parcel, typically in square meters (`sq.ft`)  
 - `Unit` – Unit number of the property (if applicable)  
-- `Main Floor Area` – Built-up area of the property in square meters (`sq.m`)  
+- `Main Floor Area` – Built-up area of the property in square meters (`sq.ft`)  
 - `Unit Level` – Floor level of the property (for high-rise units)  
 - `Transaction Price` – Price of the transaction in Malaysian Ringgit (RM)  
 
